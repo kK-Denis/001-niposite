@@ -1,2 +1,2 @@
 # 001-niposite
-A flask webapp
+An experimental Flask website aimed at exploring the concepts of web/api development.
